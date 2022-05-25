@@ -61,8 +61,7 @@ client.on('auth_failure', () => {
 });
 
 var lastmessage = 0;
-//TU NUMERO DE TELEFONO VA ACA
-var SEND_TO = "";
+var SEND_TO = "52 9931125772";
 
 client.on('ready', () => {
     console.log('Client is ready!');
